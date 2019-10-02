@@ -3,14 +3,14 @@ title: "About me"
 ---
 Ver Hoeye  
 Killian  
-Ms Bouchet  
-Bac 2 Biology  
-Group 5  
-Academic year:2019-2020  
-The rising of sea level  
+Teacher: Ms Bouchet  
+Classroom: Bac 2 Biology  
+Group: 5  
+Academic year: 2019-2020  
+__Topic of this blog__: The rising of sea level  
 
 
 
  
 
-- 
+ 
