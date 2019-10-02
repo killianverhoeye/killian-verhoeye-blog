@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Nic's Blog"
+title: "Killian's Blog"
 output_dir: "docs"
 navbar:
   right:
@@ -10,8 +10,8 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
-base_url: http://biodatascience-course.sciviews.org/blog-template/
+      href: https://github.com/killianverhoeye/killian-verhoeye-blog
+base_url: http://killianverhoeye.github.io/killian-verhoeye.blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
