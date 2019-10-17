@@ -1,12 +1,11 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 :Alarming Sonar Results Show Glaciers May Be Melting Faster Than We Expected"
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+  - name: Killian Ver Hoeye 
+date: 10-17-2019
 categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+  - seas level rising
+  - melting of glaciers
 output:
   distill::distill_article:
     self_contained: false
@@ -15,30 +14,46 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+https://www.scientificamerican.com/article/alarming-sonar-results-show-glaciers-may-be-melting-faster-than-we-expected/
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| Words from the text  | Synonym/explanation in English |
+| -------------------  | ------------------------------ |
+| To flow              | To move (for liquids, gases or electricity) |
+| Tidewater glaciers   | Glaciers on the coast          |
+| Behemoth             | Very large and very powerful |
+| To figure out        | To solve something |
+| Beneath              | In a lower position than something |
+| To crack             | To break something and very thin lines appear on its surface |
+| Stream               | A current of water |
+| To stir up           | Causing thing to happen |
+| Threatening          | Menacing |
+| Readings             | Information |
+| Ice sheet            | A thick layer of ice on the ground |
+| Field campaigns      | Field researchers |
+| To bob               | To move up and down on the surface of water |
+| Iceberg-strewn water | Ice-covered water |
+| To chart             | Make a graph that shows information in a simple way |
+| Below                | Under |
+| To beat down         | The sun shines strongly and makes the air hot |
+| Top-heavy            | More weight in the higher part than in the lower part |
+| To sort out          | Classsifying and creating order |
+| A calving glacier    | Ice block formation process | 
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | Dave Shuterland, lead study author and oceanograph at the University of Oregon (U.S.A)                     |
+| Published in?                | 07/26/2019                                                       |
+| General topic?               | Scientics carried out a study to examine and to understand the melting of glaciers in Alaska.               |
+| Procedure/what was examined? | Thanks to a GPS that collected information about deplacement of glaciers and to a multibeam sonar that collected readings about the temperature and the salinity of the water but also about the flow around the glacier, the sientifics were able to examine where and how on a glacier the most melting occurs. They spent few days on a boat in an iceber-strewn water to carry out their researches. They used a multibeam sonar because it was dangerous to recolte data on the glacier. In deed, it could break at any time. |
+| Conclusions/discovery?       | The scientifcs found that glaciers are melting 10 to 100 times faster than the pervious theories had suggested. With regard to the place where the most of the melting occurs, they found that happens beneath the waterline. But the speed of this process is increased because of the meltwater on the glacier's surface. This meltwater flows across cracks and creates a stream under the glacier so it's arrives faster in the ocean and melts faster too. This process has implications for seas level rise and that's threatening all coastal cities.          |
+| Remaining questions?         | They found variations across the face of the glacier that suggested melt rates were higher than they expected. This finding means others factors have influence on the melting of the glacier. According to Shuterland, the next step is to identify and to understand these others factors. The getting of accurate information; like Shuterland and his team recolted; could permit the prediction of these mecanisms in the future.  |
 
 
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
+
 
 
 
