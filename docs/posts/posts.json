@@ -1,20 +1,20 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1 :Alarming Sonar Results Show Glaciers May Be Melting Faster Than We Expected",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Killian Ver Hoeye",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
+    "date": "2019-10-17",
     "categories": [
-      "elephant",
-      "track"
+      "seas level rising",
+      "melting of glaciers"
     ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T10:42:26+02:00"
+    "preview": {},
+    "last_modified": "2019-10-17T18:24:22+02:00"
   }
 ]
