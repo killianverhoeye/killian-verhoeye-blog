@@ -1,13 +1,11 @@
 ---
-title: "Article 1 :Alarming Sonar Results Show Glaciers May Be Melting Faster Than We Expected"
+title: "Article 1: Alarming sonar results show glaciers may be melting faster than we expected"
 author:
-  - name: Killian Ver Hoeye 
+    name: Ver Hoeye Killian
+    url: {} 
 date: 10-17-2019
-categories:
-  - seas level rising
-  - melting of glaciers
-output:
-  distill::distill_article:
+Output:
+  distill::distill_article: 
     self_contained: false
 ---
 
@@ -46,7 +44,7 @@ https://www.scientificamerican.com/article/alarming-sonar-results-show-glaciers-
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Dave Shuterland, lead study author and oceanograph at the University of Oregon (U.S.A)                     |
+| Researchers                  | Dave Shuterland, lead study author and oceanograph at the University of Oregon (U.S.A)       |
 | Published in?                | 07/26/2019                                                       |
 | General topic?               | Scientists carried out a study to examine and to understand the melting of glaciers in Alaska.               |
 | Procedure/what was examined? | Thanks to a GPS and a multibeam sonar that collected information about deplacement of glaciers, the temperature and the salinity of the water but also about the flow around the glacier, the sientists were able to examine where and how on a glacier the most melting occurs. They spent few days on a boat in an iceber-strewn water to carry out their researches. They used a multibeam sonar because it was dangerous to recolte data on the glacier. In deed, it could break at any time. |
