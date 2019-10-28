@@ -1,7 +1,7 @@
 ---
 title: "Article 2:" 
 author:
-    name: Ver Hoeye Killian
+  - name: Ver Hoeye Killian
     url: {} 
 date: 10-28-2019
 Output:
@@ -9,9 +9,6 @@ Output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 ## Vocabulary 
 
