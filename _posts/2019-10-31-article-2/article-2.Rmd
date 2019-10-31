@@ -1,0 +1,50 @@
+---
+title: "Article 2: How sea level rise affects birds in coastal forests" 
+author:
+  - name: Ver Hoeye Killian
+    url: {} 
+date: 10-28-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+https://www.sciencedaily.com/releases/2019/05/190509142815.htm
+
+## Vocabulary 
+
+| Words from the text  | Synonym/explanation in English |
+| -------------------  | ------------------------------ |
+| A shrub              | A plant with a rounded shape formed from small branches growing directly from the ground |
+| The understory       | A layer of plants that grows under the canopy of a forest |
+| The forest canopy    | The branches that spread out at the top of a group of trees |
+| A low-lying area     | An area at a level that is not higher than the level of the ocean |
+| Marshes              | Grounds near a lake, a river or the sea that often floods |
+| Northern bobwhite quail | A species of bird |
+| Poorly               | Not well |
+| Woodpecker           | A species of bird |
+| To nest              | To build a nest or live in a nest |
+| A nest               | A structure built by birds or insects to leave their eggs in to develop |
+| To compound          | To make a problem |
+| Hooded warbler       | A species of bird |
+| Occupancy            | Someone's use of a room for the purpose of living |
+| Artifact             | An object that was made in the past |
+| An informed decision | A decision with a lot of knowledge or information about something |
+| Inland               | Away from the sea | 
+
+## Analisis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Paul J. Taillie : doctoral student of the North Carolina State when the research was conducted. Chris E. Moorman : co-author, NC state professor and coordinator of the Fisheries, Wildlife and Conservation Biology Program. Lyndsey S. Smart. Krishna Pacifici. |
+| Published in?                | May 09, 2019 |
+| General topic?               | The consequences of sea level rise on coastal forests and on birds that live there. |
+| Procedure/what was examined? | This study was conducted on the Albemarle-Pamlico peninsula in U.S.A. Researchers examined the effect of the the infiltration of saltwater in the ground of forests. Thanks to a sonar they compared two sets of informations about the changes in vegetation during 13 years. Then they modeled the living habits of birds and they understood how much habitats was lost or gained for each bird species. |
+| Conclusions/discovery?       | The scientists found that saltwater is able to kill standing trees. So other plants more salt-resistant such as shrubs and herbaceous plants grow. They discoverd that this process was beneficial for few bird species as the woodpecker because they nest in trre cavity and also for species of high conservation value. But for few other bird species like for instance the hooded warbler this forest's transformation is not good because they usually live in the canopy and the canopy die because of saltwater thus their habitat is reduced. In conclusion, the sea level rise usually appears like a threat of caostal species but this research is the proof that this process can be sometimes beneficial. |
+| Remaining questions?         | / |
+

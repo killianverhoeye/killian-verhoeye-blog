@@ -1,11 +1,11 @@
 ---
 title: "Article 1: Alarming sonar results show glaciers may be melting faster than we expected"
 author:
-    name: Ver Hoeye Killian
+  - name: Ver Hoeye Killian
     url: {} 
 date: 10-17-2019
-Output:
-  distill::distill_article: 
+output:
+  distill::distill_article:
     self_contained: false
 ---
 
@@ -45,7 +45,7 @@ https://www.scientificamerican.com/article/alarming-sonar-results-show-glaciers-
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Dave Shuterland, lead study author and oceanograph at the University of Oregon (U.S.A)       |
-| Published in?                | 07/26/2019                                                       |
+| Published in?                | July 26, 2019                                                       |
 | General topic?               | Scientists carried out a study to examine and to understand the melting of glaciers in Alaska.               |
 | Procedure/what was examined? | Thanks to a GPS and a multibeam sonar that collected information about deplacement of glaciers, the temperature and the salinity of the water but also about the flow around the glacier, the sientists were able to examine where and how on a glacier the most melting occurs. They spent few days on a boat in an iceber-strewn water to carry out their researches. They used a multibeam sonar because it was dangerous to recolte data on the glacier. In deed, it could break at any time. |
 | Conclusions/discovery?       | The scientists found that glaciers are melting 10 to 100 times faster than the pervious theories had suggested. With regard to the place where the most of the melting occurs, they found that happens beneath the waterline. But the speed of this process is increased because of the meltwater on the glacier's surface. This meltwater flows across cracks and creates a stream under the glacier so it's arrives faster in the ocean and melts faster too. This process has implications for seas level rise and that's threatening all coastal cities.          |
