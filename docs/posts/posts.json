@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-12-my-english-activity-log/",
+    "title": "My english activity log",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Ver Hoeye Killian",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-12",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-12T11:52:21+01:00"
+  },
+  {
     "path": "posts/2019-10-31-article-2/",
     "title": "Article 2: How sea level rise affects birds in coastal forests",
     "description": {},
@@ -12,7 +27,7 @@
     "date": "2019-10-28",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-31T14:47:02+01:00"
+    "last_modified": "2019-11-12T11:47:07+01:00"
   },
   {
     "path": "posts/2019-10-31-article-1/",
@@ -27,6 +42,6 @@
     "date": "2019-10-17",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-31T14:50:34+01:00"
+    "last_modified": "2019-11-12T11:47:06+01:00"
   }
 ]
