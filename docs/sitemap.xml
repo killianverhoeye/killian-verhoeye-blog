@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>http://killianverhoeye.github.io/killian-verhoeye.blog/about.html</loc>
-    <lastmod>2019-11-12T11:47:07+01:00</lastmod>
+    <lastmod>2019-11-13T12:41:43+01:00</lastmod>
   </url>
   <url>
     <loc>http://killianverhoeye.github.io/killian-verhoeye.blog/</loc>
-    <lastmod>2019-11-12T11:47:09+01:00</lastmod>
+    <lastmod>2019-11-13T12:41:44+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://killianverhoeye.github.io/killian-verhoeye.blog/posts/2019-11-13-article-3/</loc>
+    <lastmod>2019-11-13T13:03:12+01:00</lastmod>
   </url>
   <url>
     <loc>http://killianverhoeye.github.io/killian-verhoeye.blog/posts/2019-11-12-my-english-activity-log/</loc>
-    <lastmod>2019-11-12T11:52:21+01:00</lastmod>
+    <lastmod>2019-11-13T12:41:42+01:00</lastmod>
   </url>
   <url>
     <loc>http://killianverhoeye.github.io/killian-verhoeye.blog/posts/2019-10-31-article-2/</loc>
-    <lastmod>2019-11-12T11:47:07+01:00</lastmod>
+    <lastmod>2019-11-13T12:41:42+01:00</lastmod>
   </url>
   <url>
     <loc>http://killianverhoeye.github.io/killian-verhoeye.blog/posts/2019-10-31-article-1/</loc>
-    <lastmod>2019-11-12T11:47:06+01:00</lastmod>
+    <lastmod>2019-11-13T12:41:41+01:00</lastmod>
   </url>
 </urlset>

@@ -1,7 +1,5 @@
 ---
 title: "My english activity log"
-description: |
-  A short description of the post.
 author:
   - name: Ver Hoeye Killian
     url: {}
@@ -15,5 +13,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Movies and series
 
-
+09/22/2019: I watched the movie "Journey 2" in V.O subtitled in English. I liked this movie because it was funny and I thought that Dwayne Johnson and Josh Hutcherson are good actors.
+09/25/2019-10/02/2019: I watched an episode in English of the series "Sex education" every evening.
+10/07/2019: I started watching in English "The chilling adventures of Sabrina". I watch this series because it's a remake  of an older series "Sabrina" that I often watched with my sister when we were childs. I think the remake is better.
+10/11/2019: I watched 3 episodes of "The end of the f***ing world" in English with the subtitles in English.

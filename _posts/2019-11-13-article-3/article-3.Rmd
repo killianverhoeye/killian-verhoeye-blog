@@ -1,0 +1,48 @@
+---
+title: "Article 3 : Rising sea levels pose threat to homes of 300m people – study "
+author:
+  - name: Ver Hoeye Killian
+    url: {}
+date: 11-13-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+https://www.theguardian.com/environment/2019/oct/29/rising-sea-levels-pose-threat-to-homes-of-300m-people-study
+
+# Vocabulary 
+
+| Words from the text  | Synonym/explanation in English |
+| -------------------  | ------------------------------ |
+| To pose threat       | To cause a threat   |
+| Strengthened         | Something made stronger  |
+| The upward revision  | A revision with a higher level, value  |
+| A sophisticated assessment  | A sophisticated estimation  |
+| To compensate        | To fill in  |
+| Misreadings          | Wrong readings |
+| A shock              | Feeling because of an unpleasant surprise  |
+| To reshape           | To redecide the form of something  |
+| Eightfold            | Eight times more than somethin  |
+| Subsiding            | Going down to a lower level  |
+| CEO                  | A chief executive officer  |
+| Flat land            | Land in a low level  |
+| To assume            | To affirm  |
+| RCP2.6               | Representative Concentration Pathway = a greenhouse gas concentration trajectory adopted by the IPCC. RCP 2.6 affirms that annual greenhouse gas emissions reach their highest level between 2010–2020 and then will decline |
+| Pledges              | Promises  |
+| Economic harm        | Economic damage  |
+| The silver lining    | The silver layer  |
+
+# Analysis table 
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | -Scott Kulp : lead author of the study and senior scientist at Climate Central  -Benjamin Strauss : Climate Central’s chief scientist and chief executive officer |
+| Published in?                | 10/30/2019 |
+| General topic?               |  |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
