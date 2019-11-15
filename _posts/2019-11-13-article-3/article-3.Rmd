@@ -42,7 +42,7 @@ https://www.theguardian.com/environment/2019/oct/29/rising-sea-levels-pose-threa
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | -Scott Kulp : lead author of the study and senior scientist at Climate Central  -Benjamin Strauss : Climate Central’s chief scientist and chief executive officer |
 | Published in?                | 10/30/2019 |
-| General topic?               |  |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |  |
-| Remaining questions?         |  |
+| General topic?               | The consequences of rising sea levels over human habitations. |
+| Procedure/what was examined? | New more sophisticated methods permitted to know how much people are threatened by rising sea levels. An older study was already made by the NASA but the satellite underestimated the results because of tall buildings and trees. This is why the new study used an artificial intelligence to analyse the results. The scientists based their calculation on the scenario RCP2.6. |
+| Conclusions/discovery?       | Scientists discovered that about 300 million people will be threatened by floodings at least once a year by 2050. Their results was very higher than the results of the NASA’s study. They found that the biggest changes due to the rising sea levels will occur in Asia. Indeed, the risks of flooding are much higher in few asiatic lands than in other places in the world. For instance, Jakarta (capital city of Indonesia) is subsiding thus it’s more subject to flooding. The scientists said that a big amount of human development occurs in low-lying land so it’s necessary to strengthen defenses against the tidewater rising. According to the study, the damages because of rising sea level could rise until 10<sup>12</sup> $ per year by 2050 |
+| Remaining questions?         | According to the scientists, we need more sophisticated measurements to foresee an accurate estimation of the costs of damages caused by the rising sea level. |
