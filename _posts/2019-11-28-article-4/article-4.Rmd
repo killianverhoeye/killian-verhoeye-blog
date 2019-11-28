@@ -1,5 +1,5 @@
 ---
-title: "Article-4: "
+title: "Article 4: "
 author:
   - name: Ver Hoeye Killian
     url: {}
