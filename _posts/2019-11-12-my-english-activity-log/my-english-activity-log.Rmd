@@ -30,4 +30,4 @@ knitr::opts_chunk$set(echo = FALSE)
 * 10/25/2019: Download of an application about English grammar. 
 
 * Since a long time: I like some scientific pages on Facebook so I often read publications and I listen videos in English.
-
+:
