@@ -1,0 +1,59 @@
+---
+title: "Article 5 : Huge Lakes Abruptly Empty into Greenland Ice Sheet"
+author:
+  - name: Ver Hoeye Killian
+    url: {}
+date: 12-10-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+https://www.scientificamerican.com/article/huge-lakes-abruptly-empty-into-greenland-ice-sheet/
+
+# Vocabulary
+
+| Words from the text  | Synonym/explanation in English |
+| -------------------  | ------------------------------ |
+| Hastening            | From the verb « hasten ». It means that something will happen quicklier |
+| Sights               | Places                         |
+| Atop                 | At the top                     |
+| To refer             | To look at something to obtain informations |
+| To rush              | To do something quicly         |
+| To witness           | To see something happening     |
+| Firsthand            | Themselves                     |
+| The whole            | The totality                   |
+| Calmly               | Adverb of calm                 |
+| At the edge          | At the furthest place of something |
+| Flurry               | A short period of an event     |
+| Outfitted            | Equiped                        |
+| To stitch            | To join 2 things together      |
+| Sensors              | Devices used to record something |
+| Nearby               | Not far                        |
+| Straight             | Immediatelly                   |
+| The bedrock          | The rock under the glacier     |
+| A pool               | A small area of water          |
+| To be aware of       | To know that something exists  |
+| Among                | Between                        |
+| Whether | If |
+| While | During |
+| Broadly | Generally |
+
+# Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Thomas Chudley : Ph.D. student at the University of Cambridge. |
+| Published in?                | 12/03/19 |
+| General topic? | The rising sea level is partly caused by the draining meltwater in lakes into Greenland ice sheet. |
+| Procedure/what was examined? | In this study scientists were interested in a cause of rising sea level rather than in the consequences. Indeed, they seeked to understand the phenomen of draining in huge lakes into Greenland’s glacier. They used drones equiped of both camera and GPS to capture image of the event. Furthermore, they also analized the flow rate of this draining and the consequences for the ice sheet. |
+| Conclusions/discovery? | The results discovered by reserchers are quite striking. Indeed with regard to the flow, this one can be roughly 5.10^6^m^3^/h. This flow is huge hence the participation of this draining in rising sea level. Then, they found that this phenomene is due to the opening of cracks in the ice and when meltwater flows under the glacier, it causes the lubrification of the ground thus the ice slides faster into the ocean. In addition, they believe that if an older slit exists from an older draining, it can cause an other draining when the lake reach a certain size. An important finding of this study is the fact that single lakes may be more vulnerable because they could be witness of a chain reaction. In other words, a crack can cause other cracks and thus an important rush of meltwater. |
+| Remaining questions? | Scientists think that the draining of these lakes could cause more consequencies than they thought. Therefore, these consequences have to be discovered. |
+
+
+
+
