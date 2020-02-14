@@ -1,0 +1,47 @@
+---
+title: "Article 6: Sea level rise could reshape the United States, trigger migration inland"
+author:
+  - name: Ver Hoeye Killian
+    url: {}
+date: 02-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+https://www.sciencedaily.com/releases/2020/01/200122150021.htm 
+
+# Vocabulary
+
+| Words from the text  | Synonym/explanation in English |
+| -------------------  | ------------------------------ |
+|To ripple             | To have effects  |
+| Beyond               | Further (for a distance)  |
+| Land-locked cities   | Areas not surrounded by water  |
+| Suburban areas       | Areas on the edge of towns  |
+| Slammed              | Attacked  |
+| Flocked              | A lot of people moved  |
+| Aftermath            | The period after an accident  |
+| To grapple           | To try to deal  |
+| County               | The largest political division of states in U.S.  |
+| Whether … or no      | It doesn't matter  |
+| A subset             | A set that is part of a larger set  |
+| Flagged              | Marked  |
+| To reroute           | To change the route of somebody or something  |
+| The policymakers     | A person who is responsible for making new laws  |
+| To be forced upon    | To be imposed  |
+
+# Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Bistra Dilkina : author of the study, an assistant professor in computer science at USC (University of Southern California) - Caleb Robinson : author with Bistra Dilkina and a doctoral researcher from Georgia Tech - Juan Moreno Cruz : co-author, economist and a professor at the University of Waterloo |
+| Published in?                | January 22, 2020 |
+| General topic? | This study account for the migration due to the sea level rising. |
+| Procedure/what was examined? | For their survey, scientists used an AI (artificial intelligence) wich was able to combine projections of rising sea levels and projections of migration after different hurricans. Thanks to this machine, scientits could predict where migrants will come from and where they will go. Also, they analyzed the impact of this migration on the rest of population. |
+| Conclusions/discovery? | Reseachers found that about 13 millions people will have to leave their home because of rising levels by 2100. These people are going to come from areas around coasts and they essentially could go to land-locked cities such as Atlanta or Houston. Regarding the effects of migration, scientists think that it could provoke for instance a stronger competition for jobs, an increase of housing prices… More, the results coud be used for decision-makers to increase many infrastructures such as roads or medical services. In conclusion, the migration due to ocean level rising concerne people who live on the coast as much as those who don’t live there. Thus, everybody should worry about that. |
+| Remaining questions? | In this article, none question is remaining. |
