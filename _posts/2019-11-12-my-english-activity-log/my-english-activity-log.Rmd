@@ -23,6 +23,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * 10/11/2019: I watched 3 episodes of "The end of the f***ing world" in English with the subtitles in English. I find this series a little bit weird.
 
+* Barely every evening I watch an episode of a serie on Netflix in English subtitled in English too.
+
 # Applications
 
 * 10/05/2019: I changed the language of my phone from French to English.
@@ -30,4 +32,3 @@ knitr::opts_chunk$set(echo = FALSE)
 * 10/25/2019: Download of an application about English grammar. 
 
 * Since a long time: I like some scientific pages on Facebook so I often read publications and I listen videos in English.
-:

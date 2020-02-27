@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about the rising sea level"
+title: "Causes and consequences of the sea levels rising"
 site: distill::distill_website
 listing: posts
 ---

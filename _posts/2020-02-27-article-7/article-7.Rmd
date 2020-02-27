@@ -1,0 +1,46 @@
+---
+title: "Article 7: Glacier algae creates dark zone at the margins of the Greenland Ice Sheet"
+author:
+  - name: Ver Hoeye Killian
+    url: {}
+date: 02-27-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+https://www.sciencedaily.com/releases/2020/02/200225114419.htm
+
+
+
+# Vocabulary 
+
+| Words from the text  | Synonym/explanation in English |
+| -------------------  | ------------------------------ |
+| Margin               | Edge                           |
+| Insight              | Understanding                  |
+| To thrive            | To grow                        |
+| Bloom                | Fast widespread                |
+| Field observation    | Observation out of the laboratory |
+| To sample            | To take a little part of the population |
+| Phenolic pigment     | Pigment wich contains hydroxyl groupes |
+| To harness           | To collect and use something   |
+| Novel                | Niew                           |
+| Albedo               | The power of reflection of an object |
+| Underway             | When something is underway, it means that’s happening |
+
+# Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Dr Chris Williamson : he is the study's lead author and he works in University of Bristol in the center of glaciology |
+| Published in?                | February 25, 2020 |
+| General topic?               | How does microscopic algae take part in the sea level rise ? |
+| Procedure/what was examined? | During their research, scientists observed how glacier algae are able to do photosynthesis and grow in extreme conditions as light or temperature wich exist on Greenland ice sheet. They analysed also how they darken and melt the ice. For this, the team of the University of Bristol used satellite and field observations in addition to experimentation and modelling |
+| Conclusions/discovery?       | They discovered that when algae do photosynthesis, they produce a phenolic pigment with a sunscreen fonction. Actually, this pigment protect their chloroplasts from UV and radiations but they use it too for absorbing light energy. This phenomenon generates heat and permit to melt ice around them and to have access to liquid water and nutrients. During the summer, microscopic algae reproduce rapidly and it leads to an increase of 10% melting ice. Obviously, it has consequences for sea level rise |
+| Remaining questions?         | The team doesn’t finish their studies. In deed, they have to continue for predicting the impact of glacier algae on sea level rise but for this they have first to quantify the amount of algae’s pigment and modelling their growth |
+
