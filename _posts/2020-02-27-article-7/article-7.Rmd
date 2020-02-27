@@ -15,8 +15,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 https://www.sciencedaily.com/releases/2020/02/200225114419.htm
 
-
-
 # Vocabulary 
 
 | Words from the text  | Synonym/explanation in English |
