@@ -13,8 +13,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](/media/sf_shared/projects/killian-verhoeye-blog/389603C4-9879-41FD-AADF54123C5FC711_source.png)
-
 https://www.scientificamerican.com/article/huge-lakes-abruptly-empty-into-greenland-ice-sheet/
 
 # Vocabulary
