@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-04-11-article-8/",
+    "title": "Article 8 : Expanding ice slabs are increasing Greenland’s contribution to sea level rise",
+    "description": {},
+    "author": [
+      {
+        "name": "Ver Hoeye Killian",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-04-11T18:41:23+02:00"
+  },
+  {
     "path": "posts/2020-02-27-article-7/",
     "title": "Article 7: Glacier algae creates dark zone at the margins of the Greenland Ice Sheet",
     "description": {},
@@ -27,7 +42,7 @@
     "date": "2020-02-14",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-03-10T13:31:38+01:00"
+    "last_modified": "2020-04-11T18:25:47+02:00"
   },
   {
     "path": "posts/2019-12-10-article5/",
@@ -42,7 +57,7 @@
     "date": "2019-12-10",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-03-10T13:31:38+01:00"
+    "last_modified": "2020-04-11T18:41:56+02:00"
   },
   {
     "path": "posts/2019-11-28-article-4/",

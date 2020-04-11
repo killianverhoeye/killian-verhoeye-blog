@@ -1,0 +1,48 @@
+---
+title: "Article 8 : Expanding ice slabs are increasing Greenland’s contribution to sea level rise"
+author:
+  - name: Ver Hoeye Killian
+    url: {}
+date: 04-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+ ![](https://www.sciencenews.org/wp-content/uploads/2019/09/091719_CG_greenland_feat-1028x579.jpg)
+
+https://www.sciencenews.org/article/expanding-ice-slabs-increasing-greenland-contribution-sea-level-rise 
+
+# Vocabulary
+
+| Words from the text  | Synonym/explanation in English |
+| -------------------  | ------------------------------ |
+| Ice slab | Ice plate |
+| To amp up | To strengthen |
+| The runoff | The flow of water |
+| So far | Until now |
+| To set off | To trigger |
+| To stretch | In this case it means to spread |
+| To dub | To give a particular name |
+| To seep | To infiltrate |
+| To trickle | To flow slowly |
+| To drill | To make a hole |
+| Ice cores | Ice cylinder from a drilling |
+| To act as | To have a particular effect |
+| To funnel | To put something through a tube or something that acts like a tube |
+| Airborne radar observation | Observation made by a radar installed on a plane |
+| Fringe | The outer part of an area |
+| Rivulet | A small stream of liquid |
+| Fate | What it will become in the future |
+
+
+# Analysis table
+
+|                              |                                                     |
+| ---------------------------- | --------------------------------------------------- |
+| Researchers                  | Michael MacFerrin, a glaciologist at the University of Colorado Boulder - Laura Stevens, a glaciologist at Columbia University’s Lamont-Doherty Earth Observatory in Palisades, New York |
+| Published in ? | September 18, 2019 |
+| General topic? | The key role of ice slabs in the sea level rise |
+| Procedure/what was examined? | The purpose of this study is to analyze the manner how ice slabs participate to the sea level rise. For this they used radar observation. Moreover, computer simulations of future climate conditions was used to predict the ice slab’s expansion |
+| Conclusions/discovery? | Ice slab = Impermeable ice layer (1m – 16m of thickness) due to the refreeze of meltwater during winter. Consequences on sea level : * Meltwater can flow on the ice slab and directly leak in the sea because it functions as a barrier to percolating meltwater. * Due to that, increase of 74 cm until 2100.Predictions (until 2100) : * Under the lower greenhouse gas emission scenario : ice slab’s evolution will slow down. * Under the highest future emissions scenario : ice slabs could extent as far as the center of ice sheet |
+| Remaining questions? | Scientists don’t know how ice slabs, meltwater and ice sheet interact. So, the next step is to answer to this question |
