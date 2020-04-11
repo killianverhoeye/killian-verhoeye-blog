@@ -13,6 +13,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+ ![](https://www.techexplorist.com/wp-content/uploads/2019/01/algae.jpg) 
+
 https://www.sciencedaily.com/releases/2020/02/200225114419.htm
 
 # Vocabulary 
