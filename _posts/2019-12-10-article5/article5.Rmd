@@ -9,10 +9,6 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 https://www.scientificamerican.com/article/huge-lakes-abruptly-empty-into-greenland-ice-sheet/
 
 # Vocabulary
